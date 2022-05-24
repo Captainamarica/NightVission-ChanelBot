@@ -1,8 +1,8 @@
-# Channel Automation Bot [@𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗘 𝗕𝗢𝗧](https://t.me/dark_channel_autobot)
+# Channel Automation Bot [@NIGHT VISSION CHANEL BOT](https://t.me/dark_channel_autobot)
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/DARKEMPIRESL/ChannelBot"><img src="https://telegra.ph/file/14c9ef2712913cf8ae5dd.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/Captainamarica/NightVission-ChanelBot"><img src="https://telegra.ph/file/ca586d85536a5b99f812c.jpg" width="2000"></a></p>
 
 Telegram bot to automate and manage channels.
 
@@ -12,7 +12,7 @@ Telegram bot to automate and manage channels.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/ChannelBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/NightVission-ChanelBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to automate and manage channels.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/DARKEMPIRESL/ChannelBot
+   git clone https://github.com/Captainamarica/NightVission-ChanelBot
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -71,9 +71,9 @@ Telegram bot to automate and manage channels.
 
 ## Support
 
-Channel :- [@Team SL Bots🇱🇰](https://t.me/SLBotOfficial)
+Channel :- [@NIGHT VISSION BOTS🇱🇰](https://t.me/NightVission)
 
-Group Chat :- [@TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
+Group Chat :- [@NIGHT VISSION SUPPORT🇱🇰](https://t.me/NightVissionSupport)
 
 ## :)
 
