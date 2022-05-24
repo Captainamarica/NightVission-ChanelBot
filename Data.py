@@ -10,7 +10,7 @@ Welcome to {}
 
 You can use me to manage channels with tons of features. Use below buttons to learn more !
 
-By @ImDark_Empire
+By @NA_VA_N_JA_NA1
     """
 
     # Home Button
@@ -20,13 +20,13 @@ By @ImDark_Empire
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🤖 Bot Status and More Bots 🤖", url="https://t.me/SLBotOfficial/28")],
+        [InlineKeyboardButton("🤖 Bot Status and More Bots 🤖", url="https://t.me/NightVission")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("♾️ About ♾️", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/SLBotOfficial/28")],
-        [InlineKeyboardButton("🛫 Support Group 🛫", url="https://t.me/trtechguide")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/NightVission")],
+        [InlineKeyboardButton("🛫 Support Group 🛫", url="https://t.me/NightVissionSupport")],
     ]
 
     # Help Message
@@ -50,13 +50,13 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @SLBotOfficial
+A telegram channel automation bot by @NightVission
 
-Source Code : [Click Here](https://github.com/DARKEMPIRESL/ChannelBot)
+Source Code : [Click Here](https://github.com/Captainamarica/NightVission-ChanelBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @ImDark_Empire
+Developer : @NA_VA_N_JA_NA1
     """
